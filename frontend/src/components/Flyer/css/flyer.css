@@ -1,0 +1,26 @@
+table{
+
+    border: solid black 1px !important;
+    -moz-border-radius: 20px !important;
+    -webkit-border-radius: 20px !important;
+    border-radius: 20px !important;
+    -webkit-box-shadow: 0 3px 3px #ccc !important;
+    -moz-box-shadow: 0 3px 3px #ccc !important;
+    box-shadow: 0 3px 3px #ccc !important;
+    border-collapse: collapse !important;
+    border-radius: 5px !important;
+    overflow: hidden !important;
+}
+th,td{
+    background-color: #e77c36 !important;
+    border-color: #ffffff !important;
+    color: #fff !important;
+}
+td{
+    background: #646a6f !important;
+}
+
+.btn-primary{
+    background-color: #e77c36 !important;
+    border-color: #ffffff !important;
+}

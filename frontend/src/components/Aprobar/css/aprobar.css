@@ -1,0 +1,60 @@
+#botonesAD{
+    text-align: right;
+}
+#aButton{
+    margin-right: 25px;
+}
+#pt{
+
+    padding-top: 20px;
+    padding-bottom: 20px;
+}
+
+#logo{
+    width: 100% !important;
+    text-align: center;
+
+}
+
+.titulo{
+    color: #ff7f26;
+}
+
+.titulo label{
+    color: black;
+}
+label{
+    font-family:"Rubik",sans-serif;
+}
+.colorl{
+    
+    color: black;
+}
+
+.colorh{
+    color: white;
+}
+
+.card-header{
+    background-color: #fc7f2f !important;
+}
+
+.card-header:hover{
+    background-color: #fcaf80 !important;
+}
+
+.btn-link:hover {
+    color: #fc7f2f !important;
+    text-decoration: none !important;
+}
+
+.btn.focus, .btn:focus {
+    outline: 0 !important;
+    box-shadow: none !important;
+}
+
+
+.card{
+    color: #3c4043;
+    background-color: white;
+}
